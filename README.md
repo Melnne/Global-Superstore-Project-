@@ -62,7 +62,6 @@ PowerBI
 This tool was used for the data cleaning, analysis and the creation of the dashboard.
 
 ### Data Transformation
- - I downloaded the CSV files and imported them separately into Power Query Editor.
  - The column Postal_code in the orders table contained 80% empty cells and i went ahead to replace them with 0 using the 'replace value option on Power BI
  - In the People table I chaneged the hearder in both columns using First Row as Hearder
  - The columns also contained 99% empty rows using the remove rows option, i filterd rows to remove all  blank rows reducing the rows to 13
